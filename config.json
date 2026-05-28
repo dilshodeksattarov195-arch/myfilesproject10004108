@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyuelete",
+        "uuid": 11091600,
+        "checksum": "muhrs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
